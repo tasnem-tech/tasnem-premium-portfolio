@@ -1,94 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=220&section=header&text=Tasnem%20Prome%20%7C%20Data%20Analyst%20%26%20BI%20Portfolio&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=230&section=header&text=Tasnem%20Prome%20Portfolio&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 # 🚀 Tasnem Prome | Data Analyst & BI Portfolio
 
-### Transforming Data into Actionable Business Insights
+### 🧪 Professional Portfolio Website using HTML, CSS & JavaScript
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-8A2BE2?style=for-the-badge)
+![GitHub Pages](https://img.shields.io/badge/DEPLOY-GITHUB%20PAGES-222?style=for-the-badge&logo=github)
+
+### ⚡ Turning raw data into business insights through SQL, Python, Power BI & dashboards
 
 </div>
 
 ---
 
-# 📖 Overview
+## 📖 Overview
 
-Welcome to my professional portfolio.
-
-This website showcases my work in **Data Analytics, Business Intelligence, SQL, Python, Excel, Power BI, and Dashboard Development**. It demonstrates my ability to transform raw data into meaningful insights through data visualization, reporting, automation, and analytical problem-solving.
+A modern animated portfolio website designed to showcase my skills in **Data Analytics, Business Intelligence, SQL, Python, Excel, Power BI, and Dashboard Development**.
 
 ---
 
-# ✨ Key Features
+## ✨ Features
 
-- 🌌 Modern animated dark interface
-- ✨ Glassmorphism UI
-- 📊 Interactive analytics dashboard
-- 📈 Business intelligence project showcase
-- 🐍 Python data analysis projects
-- 🗄️ SQL business case studies
-- 📉 Power BI dashboards
-- 📱 Fully responsive design
-- 💼 Professional portfolio layout
-- 📬 Direct links to Email, LinkedIn, and GitHub
+- Animated landing page  
+- Futuristic dark UI  
+- Glassmorphism cards  
+- Mouse glow effect  
+- Animated dashboard preview  
+- Skills progress bars  
+- Project showcase  
+- Responsive layout  
+- Email, LinkedIn, and GitHub contact buttons  
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-| Frontend | Data Analytics | Business Intelligence |
-|----------|----------------|------------------------|
+| Frontend | Data Analytics | BI Tools |
+|---|---|---|
 | HTML5 | Python | Power BI |
 | CSS3 | SQL | Excel |
 | JavaScript | Pandas | Tableau |
-| Responsive Design | NumPy | Data Visualization |
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```text
 tasnem-premium-portfolio/
-├── 📄 index.html
-├── 📄 style.css
-├── 📄 script.js
-├── 📄 README.md
-└── 📁 assets/
-```
-
----
-
-# 🌐 Live Demo
-
-After enabling GitHub Pages:
-
-**https://tasnem-tech.github.io/tasnem-premium-portfolio/**
-
----
-
-# 📬 Contact
-
-📧 **Email:**  
-**promytasnem5699@gmail.com**
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/tasnempromy/
-
-🐙 **GitHub:**  
-https://github.com/tasnem-tech
-
----
-
-<div align="center">
-
-### ⭐ Thank you for visiting my portfolio!
-
-**Designed & Developed by Tasnem Prome**
-
-</div>
+├── index.html
+├── style.css
+├── script.js
+└── README.md
