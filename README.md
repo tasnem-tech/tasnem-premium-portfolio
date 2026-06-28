@@ -2,61 +2,49 @@
 
 # 👋 Hi, I'm Tasnem Prome
 
-### Data Analyst • Business Intelligence • Python • SQL • Power BI
+### 💼 Data Analyst • Business Intelligence • Python • SQL • Power BI
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Business+Insights;Building+Interactive+Dashboards;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Always+Learning+Something+New" />
+> **Turning data into meaningful insights and building interactive dashboards.**
 
-![GitHub last commit](https://img.shields.io/github/last-commit/tasnem-tech/tasnem-premium-portfolio?style=for-the-badge&color=8A2BE2)
-![GitHub repo size](https://img.shields.io/github/repo-size/tasnem-tech/tasnem-premium-portfolio?style=for-the-badge)
-![License](https://img.shields.io/badge/Portfolio-Personal-blueviolet?style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-8A2BE2?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-tasnem--tech-181717?style=for-the-badge&logo=github)](https://github.com/tasnem-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tasnem%20Prome-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tasnempromy/)
 
 </div>
 
 ---
 
-# ✨ About this Portfolio
+# ✨ About This Portfolio
 
-This portfolio showcases my work in:
+This portfolio showcases my work in **Data Analytics, Business Intelligence, SQL, Python, and Dashboard Development**.
 
-- 📊 Data Analytics
-- 📈 Business Intelligence
-- 🐍 Python
-- 🗄 SQL
-- 📉 Power BI
-- 📑 Excel
-- 🌐 HTML • CSS • JavaScript
+It is designed with a modern dark theme, smooth animations, and an interactive layout to demonstrate both technical and front-end development skills.
 
 ---
 
 # 🚀 Features
 
-✅ Animated Landing Page
-
-✅ Glassmorphism UI
-
-✅ Interactive Dashboard
-
-✅ Modern Dark Theme
-
-✅ Responsive Design
-
-✅ Business Analytics Projects
-
-✅ SQL Case Studies
-
-✅ Python Data Analysis
-
-✅ Power BI Dashboards
+- ✨ Modern animated interface
+- 🌌 Glassmorphism design
+- 📊 Interactive dashboard UI
+- 📈 Business analytics project showcase
+- 🐍 Python data analysis projects
+- 🗄️ SQL business case studies
+- 📉 Power BI dashboards
+- 📱 Fully responsive design
+- 🌙 Dark theme
+- ⚡ Smooth scrolling animations
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-| Frontend | Analytics | Visualization |
-|----------|-----------|---------------|
-| HTML5 | Python | Power BI |
-| CSS3 | SQL | Excel |
-| JavaScript | Pandas | Tableau |
+| Frontend | Analytics | Tools |
+|----------|-----------|-------|
+| HTML5 | Python | Git |
+| CSS3 | SQL | GitHub |
+| JavaScript | Power BI | VS Code |
+| Responsive Design | Excel | Tableau |
 
 ---
 
@@ -64,20 +52,30 @@ This portfolio showcases my work in:
 
 ```text
 📦 tasnem-premium-portfolio
- ┣ 📜 index.html
- ┣ 📜 style.css
- ┣ 📜 script.js
- ┣ 📜 README.md
- ┗ 📁 assets
+├── 📄 index.html
+├── 📄 style.css
+├── 📄 script.js
+├── 📄 README.md
+└── 📁 assets
 ```
 
 ---
 
-# 🌍 Live Demo
+# 📊 Featured Projects
 
-After enabling GitHub Pages:
+- 📈 Sales Performance Dashboard
+- 👥 Customer Churn Analysis
+- 🛒 E-commerce SQL Analytics
+- 🌍 Global Data Analysis
+- 📉 Interactive KPI Dashboard
 
-```
+---
+
+# 🌐 Live Demo
+
+Once GitHub Pages is enabled, your portfolio will be available at:
+
+```text
 https://tasnem-tech.github.io/tasnem-premium-portfolio/
 ```
 
@@ -85,18 +83,27 @@ https://tasnem-tech.github.io/tasnem-premium-portfolio/
 
 # 📬 Contact
 
-📧 your-email@example.com
+📧 **Email:**  
+**promytasnem5699@gmail.com**
 
-💼 LinkedIn
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/tasnempromy/
 
-🐙 GitHub: https://github.com/tasnem-tech
+🐙 **GitHub:**  
+https://github.com/tasnem-tech
+
+---
+
+# 📄 License
+
+This project is open source and available under the MIT License.
 
 ---
 
 <div align="center">
 
-### ⭐ If you like this project, consider giving it a star!
+### ⭐ If you like this portfolio, consider giving it a star!
 
-Made with ❤️ by **Tasnem Prome**
+**Designed & Developed by Tasnem Prome**
 
 </div>
