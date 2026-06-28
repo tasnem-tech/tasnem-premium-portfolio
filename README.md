@@ -1,15 +1,31 @@
-# Tasnem Prome — Animated Data Analyst Portfolio
+# ✨ Tasnem Prome — Animated Data Analyst Portfolio
 
-A professional animated portfolio for Data Analyst, BI Analyst, Junior Analyst, IT Support and QA roles.
+A modern animated portfolio website designed for **Data Analyst, BI Analyst, Junior Analyst, IT Support, and QA roles**.
 
-## Files
-- index.html
-- style.css
-- script.js
-- README.md
+## 🚀 Live Preview
 
-## Preview
-Open `index.html` directly, or use VS Code Live Server.
+Open `index.html` directly in your browser, or use **VS Code Live Server**.
 
-## Deploy
-Upload all files to GitHub, then enable GitHub Pages from Settings > Pages.
+## ✨ Features
+
+- Professional dark UI
+- Smooth scroll animations
+- Animated dashboard cards
+- Glassmorphism design
+- Skills progress bars
+- Project showcase
+- Mobile responsive layout
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 📁 Files
+
+```text
+index.html
+style.css
+script.js
+README.md
